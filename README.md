@@ -38,3 +38,13 @@ References supplied by the project owner:
 The dedicated show channel, https://www.youtube.com/@Miss_and_Tell, is linked by https://www.pewview.com/miss-tell. Episode titles, thumbnails and runtimes come from that channel's public Videos page. The show logo comes from the PewView show page. Those assets remain the property of their respective owners; no ownership or affiliation is claimed. Design headlines are concept copy.
 
 The concept includes a visible independent-concept footer and `noindex,nofollow` metadata. Review those settings and asset permissions with the show team before adopting this as an official website.
+
+## Shop references (October 1, 2026)
+
+- Official PewView merch: https://www.bunkerbranding.com/pages/pewview
+- Logo T-Shirt and Logo Hoodie imagery: linked Bunker Branding product pages.
+- Pink Mist collaboration and product imagery: https://drinkechelon.com/products/echelon-x-pew-view
+- Pepperbox wordmark: https://assets.pepperbox.tv/logo_brand.png
+- Echelon wordmark: the official Pink Mist product page.
+
+Shop cards link to the official stores. Pricing and inventory are not duplicated on this concept. The scrolling banner has a pause control; reduced-motion preferences show all three phrases without animation.

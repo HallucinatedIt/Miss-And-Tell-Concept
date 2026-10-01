@@ -22,3 +22,13 @@ filters.addEventListener('click', event => {
   });
   document.querySelector('.episode-count').textContent = `${count} episodes`;
 });
+
+const ticker = document.querySelector('.ticker');
+const tickerToggle = document.querySelector('.ticker-toggle');
+tickerToggle.hidden = false;
+tickerToggle.addEventListener('click', () => {
+  const paused = ticker.classList.toggle('is-paused');
+  tickerToggle.setAttribute('aria-pressed', String(paused));
+  tickerToggle.setAttribute('aria-label', paused ? 'Resume scrolling banner' : 'Pause scrolling banner');
+  tickerToggle.firstElementChild.textContent = paused ? '▶' : 'Ⅱ';
+});
